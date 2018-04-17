@@ -11,9 +11,17 @@ para1 {
 }
 
 h1 {
-	color: gray;
+	color: white;
 	font-size: 75px;
 	text-align: center;
+}
+
+body {
+
+    background: url(Heaven.JPG);
+    background-repeat: no-repeat;
+    background-size: 300px 100px;
+
 }
 
 
